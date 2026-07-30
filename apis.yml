@@ -1,6 +1,17 @@
 name: GTM Release
 description: A network index of companies, organizations, and platforms relevant to the Naftiko Framework go-to-market release strategy, covering press, developer communities, directories, review platforms, podcasts, business directories, and events.
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/gtm-release.png
 url: https://raw.githubusercontent.com/api-evangelist/gtm-release/refs/heads/main/apis.yml
 created: '2026-03-24'
 modified: '2026-04-28'
