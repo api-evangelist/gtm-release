@@ -1,0 +1,99 @@
+# GTM Release
+
+> An API Evangelist network index of the 55 companies, platforms, and events that make up a go-to-market release surface — press and tech media, developer communities, open-source and developer-tool directories, social, podcasts, business and startup directories, product-launch and SaaS platforms, review platforms, and conferences.
+
+GTM Release is not a company and does not operate an API. It is a curated index maintained by API Evangelist that groups existing provider profiles in the api-evangelist network by the role each plays in launching and distributing software. Every entry below is a separately profiled provider with its own apis.yml, artifacts, and Kin Score. Use this file to walk the launch surface; use each provider profile for that provider's actual API.
+
+## Index
+
+- [apis.yml (this index, machine-readable)](https://raw.githubusercontent.com/api-evangelist/gtm-release/refs/heads/main/apis.yml): APIs.json 0.19 network document listing all 55 members
+- [Repository](https://github.com/api-evangelist/gtm-release): Source of this index
+- [Provider page](https://apis.io/providers/gtm-release/): Rendered index on APIs.io
+
+## Press and Tech Media
+
+- [EIN Newswire](https://apis.io/providers/ein-newswire/): Paid and free press release distribution services are in one place.
+- [The New Stack](https://apis.io/providers/the-new-stack/): The New Stack is a tech media platform covering cloud native, DevOps, AI, and open source technologies, providing news, analysis, podcasts, webinars, and ebooks for developers, software e...
+- [TechRepublic](https://apis.io/providers/techrepublic/): TechRepublic is a leading IT and enterprise technology media site that provides IT professionals with news, analysis, tips, tutorials, best practices, and research on business technology.
+- [DZone](https://apis.io/providers/dzone/): DZone is one of the world's largest online communities and a leading publisher of knowledge resources for software engineering professionals.
+- [GeekWire](https://apis.io/providers/geekwire/): GeekWire is a leading technology news site covering startups, innovation, and the Pacific Northwest tech scene.
+- [ZDNet](https://apis.io/providers/zdnet/): ZDNet is a business technology news website owned by Ziff Davis, covering enterprise IT, cybersecurity, cloud computing, hardware, software, and innovation for IT professionals and tech-s...
+- [Slashdot](https://apis.io/providers/slashdot/): Slashdot is a technology news aggregation and community discussion site founded in 1997, focused on open source software, Linux, science, and technology topics.
+- [TechCrunch](https://apis.io/providers/techcrunch/): TechCrunch (https://techcrunch.com/) is a leading technology media property dedicated to covering startups, venture capital, and innovation.
+- [VentureBeat](https://apis.io/providers/venturebeat/): VentureBeat is a leading technology news and media company covering artificial intelligence, enterprise technology, gaming, and the business of innovation.
+- [Mashable](https://apis.io/providers/mashable/): Mashable is a digital media and entertainment company covering tech, culture, and digital trends.
+- [Wired](https://apis.io/providers/wired/): Wired (wired.com) is an American technology and culture magazine published by Condé Nast, covering how emerging technologies affect culture, the economy, and politics.
+- [The Next Web](https://apis.io/providers/the-next-web/): The Next Web is a leading online media organization covering technology news, business, and culture.
+
+## Developer Communities and Content Platforms
+
+- [Hacker News](https://apis.io/providers/hacker-news/): Hacker News is Y Combinator's technology news aggregation and discussion platform.
+- [Indie Hackers](https://apis.io/providers/indie-hackers/): Indie Hackers is an online community where founders of profitable businesses and side projects share their stories, strategies, and revenue numbers to help each other build successful com...
+- [Hashnode](https://apis.io/providers/hashnode/): Hashnode is a blogging platform for developers and engineering teams, offering publications on a custom domain, a headless CMS mode, and a public GraphQL API covering posts, drafts, publi...
+- [CodeProject](https://apis.io/providers/codeproject/): CodeProject is a long-running online community for software developers founded in 1999, hosting hundreds of thousands of developer-contributed articles, tutorials, code samples, tips, and...
+- [Stack Overflow](https://apis.io/providers/stack-overflow/): Stack Overflow is the world's largest question-and-answer community for developers, with over 23 million questions on programming, software development, and technology topics.
+- [GrowthHackers](https://apis.io/providers/growthhackers/): A private community for top growth leaders - where marketing, product, and growth experts come to learn, connect, and tackle challenges together.
+- [Quora](https://apis.io/providers/quora/): Quora is a question-and-answer platform where users ask questions, share knowledge, and learn from experts on a wide variety of topics.
+- [Spiceworks](https://apis.io/providers/spiceworks/): Spiceworks is an online community and marketplace where IT professionals can find advice, manage their networks, and discover and purchase IT products and services.
+
+## Open-Source and Developer Tool Directories
+
+- [SourceForge](https://apis.io/providers/sourceforge/): SourceForge is a web-based platform for hosting, managing, and distributing open source software projects.
+- [StackShare](https://apis.io/providers/stackshare/): StackShare is a platform where developers and companies share information about the technologies and tools they use to build software.
+- [AlternativeTo](https://apis.io/providers/alternativeto/): AlternativeTo is a crowdsourced software discovery platform that helps users find alternatives to software products based on user recommendations across desktop, mobile, and web applicati...
+- [Docker Hub](https://apis.io/providers/docker-hub/): Docker Hub is the world's largest container image registry, providing a cloud-based service for finding, storing, sharing, and managing container images.
+- [VS Code Marketplace](https://apis.io/providers/vs-code-marketplace/): VS Code Marketplace is Microsoft's official extension marketplace for Visual Studio Code, offering thousands of extensions for languages, debuggers, themes, and developer tools.
+
+## Social Media
+
+- [Flipboard](https://apis.io/providers/flipboard/): Flipboard is a content curation and social magazine platform that aggregates articles, videos, and social media posts into personalized, magazine-style feeds.
+
+## Podcasts and Audio
+
+- [Changelog](https://apis.io/providers/changelog/): Changelog is a media company and podcast network for developers covering open source and software development.
+- [Software Engineering Daily](https://apis.io/providers/software-engineering-daily/): Software Engineering Daily is a podcast and media platform dedicated to covering software engineering topics through daily technical interviews and discussions.
+
+## Business and Startup Directories
+
+- [Crunchbase](https://apis.io/providers/crunchbase/): Crunchbase is a business data platform tracking companies, investors, funding rounds, acquisitions, and IPOs across the global startup and private market ecosystem.
+- [AngelList](https://apis.io/providers/angellist/): AngelList provides an investor management GraphQL API that enables fund managers and investors to programmatically manage transactions, entities, organizations, documents, and capital flo...
+- [F6S](https://apis.io/providers/f6s/): The API Design Management Platform powering the world's leading API first companies.
+- [Launching Next](https://apis.io/providers/launching-next/): Launching Next is a startup discovery and submission platform that publishes daily listings of new and trending tech startups and side projects worldwide.
+- [Feedough](https://apis.io/providers/feedough/): Feedough is a media platform and entrepreneurship resource covering startup ideas, business models, and entrepreneurship.
+- [Startup Ranking](https://apis.io/providers/startup-ranking/): Startup Ranking is a platform that tracks, ranks, and indexes startups worldwide based on web presence, social metrics, and growth signals.
+- [Startup Buffer](https://apis.io/providers/startup-buffer/): Startup Buffer is a community-driven directory and platform for discovering new startups, products, and innovations across various industries.
+
+## Product Launch and SaaS Platforms
+
+- [Product Hunt](https://apis.io/providers/product-hunt/): Product Hunt is a platform for discovering new tech products, connecting makers with early adopters and enthusiasts.
+- [AppSumo](https://apis.io/providers/appsumo/): AppSumo Licensing API Documentation - v2.
+- [SaaSHub](https://apis.io/providers/saashub/): SaaSHub is an independent software discovery platform that helps users find, compare, and discover software alternatives across SaaS, web, and cloud-based applications.
+- [DiscoverCloud](https://apis.io/providers/discovercloud/): Discover the best SaaS solutions and B2B services on the DiscoverCloud.
+- [BetaPage](https://apis.io/providers/betapage/): BetaPage was a startup discovery and listing platform where founders, makers, and early adopters could discover and submit beta-stage and newly launched tech products.
+- [BetaList](https://apis.io/providers/betalist/): BetaList is a platform for discovering upcoming internet startups and getting early access to innovative products before they go mainstream.
+
+## Review Platforms
+
+- [G2](https://apis.io/providers/g2/): The G2 API provides programmatic access to G2's product, category, and review data.
+- [Capterra](https://apis.io/providers/capterra/): Capterra is one of the largest software review and comparison marketplaces, helping business buyers discover, research, and select software across hundreds of categories through verified...
+- [TrustRadius](https://apis.io/providers/trustradius/): TrustRadius is a B2B buyer intelligence and software review platform that helps technology buyers make confident purchasing decisions and enables vendors to turn verified customer reviews...
+- [GetApp](https://apis.io/providers/getapp/): GetApp is a free online resource that helps small businesses find, compare, and choose the best business software for their needs across hundreds of categories.
+- [Software Advice](https://apis.io/providers/software-advice/): Software Advice is a free online service that helps businesses navigate the software buying process by providing software reviews, comparisons, and personalized recommendations.
+- [GoodFirms](https://apis.io/providers/goodfirms/): GoodFirms is a B2B research, ratings, and reviews platform that helps service seekers find the best IT services providers, software, and freelancers across various business categories.
+- [Trustpilot](https://apis.io/providers/trustpilot/): Trustpilot is a global consumer review platform that connects businesses with their customers to build trust through transparent, verified reviews.
+- [FinancesOnline](https://apis.io/providers/financesonline/): Read detailed online reviews of B2B & SaaS solutions prepared by industry experts.
+- [SoftwareSuggest](https://apis.io/providers/softwaresuggest/): SoftwareSuggest is a business software discovery and recommendation platform that helps organizations find, compare, and select the right software solutions for their needs.
+- [Crozdesk](https://apis.io/providers/crozdesk/): Crozdesk helps businesses find and compare software across all major software categories.
+- [Clutch](https://apis.io/providers/clutch/): Clutch is a B2B ratings and reviews platform that helps businesses identify and connect with service providers, including IT services, marketing agencies, and software developers.
+- [Serchen](https://apis.io/providers/serchen/): Serchen is a cloud services marketplace and review platform that helps businesses discover, review, and connect with cloud and SaaS providers.
+
+## Conferences and Events
+
+- [Web Summit](https://apis.io/providers/web-summit/): Web Summit is one of the world's largest technology conferences, held annually in Lisbon, Portugal each November.
+- [Collision](https://apis.io/providers/collision/): Collision was the major annual North American technology conference organized by Web Summit, held in Toronto from 2019 through 2024 and widely dubbed the "Olympics of Tech." Beginning in...
+
+## Notes
+
+- Membership is editorial: inclusion means the platform is a relevant go-to-market channel, not that it is endorsed or that it publishes an API.
+- Each member link was probed on 2026-08-13 and returned HTTP 200.
+- This file is generated from apis.yml and README.md in this repository. It is not a provider-published llms.txt.
