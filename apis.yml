@@ -1,5 +1,16 @@
 name: GTM Release
 description: An API Evangelist network index of the 55 companies, platforms, and events that make up a software go-to-market release surface — press and tech media, developer communities and content platforms, open-source and developer-tool directories, social media, podcasts, business and startup directories, product-launch and SaaS platforms, review platforms, and conferences. GTM Release is not a company and operates no API of its own; each member is a separately profiled provider in the api-evangelist network with its own apis.yml, artifacts, and Kin Score.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
