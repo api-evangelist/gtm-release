@@ -64,114 +64,34 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-A network index of companies, organizations, and platforms relevant to go-to-market release strategy, covering press and tech media, developer communities, open-source directories, review platforms, podcasts, business directories, and events.
+An API Evangelist network index of the 55 companies, platforms, and events that make up a software go-to-market release surface — press and tech media, developer communities and content platforms, open-source and developer-tool directories, social media, podcasts, business and startup directories, product-launch and SaaS platforms, review platforms, and conferences. GTM Release is not a company and operates no API of its own; each member is a separately profiled provider in the api-evangelist network with its own apis.yml, artifacts, and Kin Score.
 
-**Type:** Network
-**Specification Version:** 0.19
-**Created:** 2026-03-24
+**Areas:** Conferences · Event · Developer Communities · Directories · Go-To-Market · Marketing · Press · Releases · Review Platforms
 
-## Network
+## GTM Release on APIs.io
 
-### Press and Tech Media
+Everything profiled for GTM Release is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/gtm-release/](https://apis.io/providers/gtm-release/)** — or go straight to one of the APIs or properties below.
 
-| Name | Repository |
-|------|-----------|
-| EIN Newswire | [ein-newswire](https://github.com/api-evangelist/ein-newswire) |
-| The New Stack | [the-new-stack](https://github.com/api-evangelist/the-new-stack) |
-| TechRepublic | [techrepublic](https://github.com/api-evangelist/techrepublic) |
-| DZone | [dzone](https://github.com/api-evangelist/dzone) |
-| GeekWire | [geekwire](https://github.com/api-evangelist/geekwire) |
-| ZDNet | [zdnet](https://github.com/api-evangelist/zdnet) |
-| Slashdot | [slashdot](https://github.com/api-evangelist/slashdot) |
-| TechCrunch | [techcrunch](https://github.com/api-evangelist/techcrunch) |
-| VentureBeat | [venturebeat](https://github.com/api-evangelist/venturebeat) |
-| Mashable | [mashable](https://github.com/api-evangelist/mashable) |
-| Wired | [wired](https://github.com/api-evangelist/wired) |
-| The Next Web | [the-next-web](https://github.com/api-evangelist/the-next-web) |
+## Where to find this API
 
-### Developer Communities and Content Platforms
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-| Name | Repository |
-|------|-----------|
-| Hacker News | [hacker-news](https://github.com/api-evangelist/hacker-news) |
-| Indie Hackers | [indie-hackers](https://github.com/api-evangelist/indie-hackers) |
-| Hashnode | [hashnode](https://github.com/api-evangelist/hashnode) |
-| CodeProject | [codeproject](https://github.com/api-evangelist/codeproject) |
-| Stack Overflow | [stack-overflow](https://github.com/api-evangelist/stack-overflow) |
-| GrowthHackers | [growthhackers](https://github.com/api-evangelist/growthhackers) |
-| Quora | [quora](https://github.com/api-evangelist/quora) |
-| Spiceworks | [spiceworks](https://github.com/api-evangelist/spiceworks) |
+- [GitHub](https://github.com/api-evangelist)
 
-### Open-Source and Developer Tool Directories
+## API Evangelist rating
 
-| Name | Repository |
-|------|-----------|
-| SourceForge | [sourceforge](https://github.com/api-evangelist/sourceforge) |
-| StackShare | [stackshare](https://github.com/api-evangelist/stackshare) |
-| AlternativeTo | [alternativeto](https://github.com/api-evangelist/alternativeto) |
-| Docker Hub | [docker-hub](https://github.com/api-evangelist/docker-hub) |
-| VS Code Marketplace | [vs-code-marketplace](https://github.com/api-evangelist/vs-code-marketplace) |
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-### Social Media
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
-| Name | Repository |
-|------|-----------|
-| Flipboard | [flipboard](https://github.com/api-evangelist/flipboard) |
+## How this profile is made
 
-### Podcasts and Audio
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-| Name | Repository |
-|------|-----------|
-| Changelog | [changelog](https://github.com/api-evangelist/changelog) |
-| Software Engineering Daily | [software-engineering-daily](https://github.com/api-evangelist/software-engineering-daily) |
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for GTM Release: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-### Business and Startup Directories
+## Open an issue
 
-| Name | Repository |
-|------|-----------|
-| Crunchbase | [crunchbase](https://github.com/api-evangelist/crunchbase) |
-| AngelList | [angellist](https://github.com/api-evangelist/angellist) |
-| F6S | [f6s](https://github.com/api-evangelist/f6s) |
-| Launching Next | [launching-next](https://github.com/api-evangelist/launching-next) |
-| Feedough | [feedough](https://github.com/api-evangelist/feedough) |
-| Startup Ranking | [startup-ranking](https://github.com/api-evangelist/startup-ranking) |
-| Startup Buffer | [startup-buffer](https://github.com/api-evangelist/startup-buffer) |
-
-### Product Launch and SaaS Platforms
-
-| Name | Repository |
-|------|-----------|
-| Product Hunt | [product-hunt](https://github.com/api-evangelist/product-hunt) |
-| AppSumo | [appsumo](https://github.com/api-evangelist/appsumo) |
-| SaaSHub | [saashub](https://github.com/api-evangelist/saashub) |
-| DiscoverCloud | [discovercloud](https://github.com/api-evangelist/discovercloud) |
-| BetaPage | [betapage](https://github.com/api-evangelist/betapage) |
-| BetaList | [betalist](https://github.com/api-evangelist/betalist) |
-
-### Review Platforms
-
-| Name | Repository |
-|------|-----------|
-| G2 | [g2](https://github.com/api-evangelist/g2) |
-| Capterra | [capterra](https://github.com/api-evangelist/capterra) |
-| TrustRadius | [trustradius](https://github.com/api-evangelist/trustradius) |
-| GetApp | [getapp](https://github.com/api-evangelist/getapp) |
-| Software Advice | [software-advice](https://github.com/api-evangelist/software-advice) |
-| GoodFirms | [goodfirms](https://github.com/api-evangelist/goodfirms) |
-| Trustpilot | [trustpilot](https://github.com/api-evangelist/trustpilot) |
-| FinancesOnline | [financesonline](https://github.com/api-evangelist/financesonline) |
-| SoftwareSuggest | [softwaresuggest](https://github.com/api-evangelist/softwaresuggest) |
-| Crozdesk | [crozdesk](https://github.com/api-evangelist/crozdesk) |
-| Clutch | [clutch](https://github.com/api-evangelist/clutch) |
-| Serchen | [serchen](https://github.com/api-evangelist/serchen) |
-
-### Conferences and Events
-
-| Name | Repository |
-|------|-----------|
-| Web Summit | [web-summit](https://github.com/api-evangelist/web-summit) |
-| Collision | [collision](https://github.com/api-evangelist/collision) |
-
-## Tags
-
-GTM, Release, Marketing, Press, Developer Communities, Review Platforms, Directories
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/gtm-release/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
